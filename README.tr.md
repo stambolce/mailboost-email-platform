@@ -1,28 +1,20 @@
-[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
-
 <div align="center">
 
-<img src="assets/mailboost-hero.svg" alt="MailBoost — professional internal email outreach and campaign operations by PROCESS IN" width="100%" />
+# MailBoost
 
-<br/>
+[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
+
+<img src="assets/mailboost-hero.svg" alt="MailBoost — ürün görsel sunumu" width="100%" />
+
+**PROCESS IN için profesyonel iletişim.**
 
 [![Product Domain](https://img.shields.io/badge/MAILBOOST.MK-PRODUCT_DOMAIN-167AFF?style=for-the-badge)](https://mailboost.mk)
 [![Internal Platform](https://img.shields.io/badge/INTERNAL-PROCESS_IN_PLATFORM-17191D?style=for-the-badge)](https://processin.mk)
 [![Created by](https://img.shields.io/badge/CREATED_BY-PROCESS_IN-167AFF?style=for-the-badge)](https://processin.mk)
 
-
-
-
-
-
-
-### PROCESS IN için profesyonel iletişim.
-
-**PROCESS IN için profesyonel iletişim.**
+**LIVE**
 
 </div>
-
----
 
 ## PROCESS IN için profesyonel iletişim
 
@@ -78,7 +70,7 @@ Kimlik PROCESS IN'i izler: siyah, mavi, beyaz, Inter esintili tipografi, disipli
 |---|---|
 | Ürün | MailBoost |
 | Resmî site | [mailboost.mk](https://mailboost.mk) |
-| Kategori | Dahili e-posta kampanya platformu |
+| Kategori | Dahili e-posta platformu; PowerInbox'ın güncel adı |
 | Durum | LIVE |
 | Geliştirici | [PROCESS IN](https://processin.mk) |
 | Portföy | [PROCESS IN](https://github.com/stambolce/process-in) |

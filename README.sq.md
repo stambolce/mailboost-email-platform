@@ -1,28 +1,20 @@
-[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
-
 <div align="center">
 
-<img src="assets/mailboost-hero.svg" alt="MailBoost — professional internal email outreach and campaign operations by PROCESS IN" width="100%" />
+# MailBoost
 
-<br/>
+[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
+
+<img src="assets/mailboost-hero.svg" alt="MailBoost — prezantim vizual i produktit" width="100%" />
+
+**Komunikim profesional për PROCESS IN.**
 
 [![Product Domain](https://img.shields.io/badge/MAILBOOST.MK-PRODUCT_DOMAIN-167AFF?style=for-the-badge)](https://mailboost.mk)
 [![Internal Platform](https://img.shields.io/badge/INTERNAL-PROCESS_IN_PLATFORM-17191D?style=for-the-badge)](https://processin.mk)
 [![Created by](https://img.shields.io/badge/CREATED_BY-PROCESS_IN-167AFF?style=for-the-badge)](https://processin.mk)
 
-
-
-
-
-
-
-### Komunikim profesional për PROCESS IN.
-
-**Komunikim profesional për PROCESS IN.**
+**LIVE**
 
 </div>
-
----
 
 ## Komunikim profesional, ndërtuar për PROCESS IN
 
@@ -78,7 +70,7 @@ Identiteti ndjek PROCESS IN: e zezë, blu, e bardhë, tipografi e frymëzuar nga
 |---|---|
 | Produkti | MailBoost |
 | Faqja zyrtare | [mailboost.mk](https://mailboost.mk) |
-| Kategoria | Platformë e brendshme fushatash email |
+| Kategoria | Platformë e brendshme email; emri aktual i PowerInbox |
 | Statusi | LIVE |
 | Zhvilluesi | [PROCESS IN](https://processin.mk) |
 | Portofoli | [PROCESS IN](https://github.com/stambolce/process-in) |
