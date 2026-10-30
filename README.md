@@ -1,3 +1,5 @@
+[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
+
 <div align="center">
 
 <img src="assets/mailboost-hero.svg" alt="MailBoost — professional internal email outreach and campaign operations by PROCESS IN" width="100%" />

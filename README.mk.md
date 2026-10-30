@@ -1,3 +1,5 @@
+[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
+
 <div align="center">
 
 <img src="assets/mailboost-hero.svg" alt="MailBoost — интерна платформа за професионални email кампањи на PROCESS IN" width="100%" />
